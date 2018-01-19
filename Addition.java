@@ -8,7 +8,7 @@ public class Addition {
 		int a =sc.nextInt();
 		int b =sc.nextInt();
 		int c =a+b;
-		System.out.println("addition of"+c);
+		System.out.println(c);
 		
 
 	}
